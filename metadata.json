@@ -1,0 +1,7 @@
+{
+  "name": "Gesture DJ",
+  "description": "An interactive AI DJ experience where your hand motions and voice control the music.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
